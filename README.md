@@ -1,6 +1,6 @@
 ### Hi, I'm Calla
 
-![1569269379842](https://user-images.githubusercontent.com/112335053/206156833-9d9c89f8-c71a-4786-b52f-5134a10cb43e.jpg)
+![1569269379842](https://user-images.githubusercontent.com/112335053/206156833-9d9c89f8-c71a-4786-b52f-5134a10cb43e.jpg =250x250)
 
 I'm an aspiring software developer who is currently on the School of Code (https://www.schoolofcode.co.uk/) 16-week bootcamp. 
 
