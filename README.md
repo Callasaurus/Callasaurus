@@ -6,7 +6,7 @@ Previous to my coding journey, I spent a few years working in market research, w
 
 Feel free to have a look through my repos to see my projects, and check me out on LinkedIn 😄 (https://www.linkedin.com/in/calla-sullivan-drage-88a7a5139/). 
 
-### Skills 
+### Primary Skills 
 
 HMTL|CSS|JavaScript|TypeScript|React|Node.js|  
 :------------:|:-------------:|:-------------:|:-------------:|:------------:|:-------------:|
