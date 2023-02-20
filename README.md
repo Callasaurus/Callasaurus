@@ -6,6 +6,15 @@ Previous to my coding journey, I spent a few years working in market research, w
 
 Feel free to have a look through my repos to see my projects, and check me out on LinkedIn 😄 (https://www.linkedin.com/in/calla-sullivan-drage-88a7a5139/). 
 
+### Featured projects 
+
+- [4-week team project: Fullstack app for job-seeking developers](https://github.com/Callasaurus/deVault-SoC-4-week-team-project)
+- [1-week team project: Full-stack learning resource app for bootcampers](https://github.com/Callasaurus/Week9-soc-across-the-globe-project-1-week-team-project)
+- [Take-home frontend technical test: News application](https://github.com/Callasaurus/Frontend-take-home-technical-test)
+- [Take-home backend technical test: TypeScript algorithm and server](https://github.com/Callasaurus/Backend-take-home-technical-test)
+- [Personal website](https://github.com/Callasaurus/Personal-Page)
+- [TypeScript weather app](https://github.com/Callasaurus/Week-12-Hackathon-TypeScript-Weather-App)
+
 ### Primary Skills 
 
 HMTL|CSS|JavaScript|TypeScript|React|Node.js|  
