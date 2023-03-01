@@ -23,7 +23,8 @@ HMTL|CSS|JavaScript|TypeScript|React|Node.js|
 
 ### Secondary Skills 
 - AGILE (used within team projects): Standups, Retros, Sprints, Scrum, Trello / Kanban boards
-- Testing: Jest, Supertest, Mocha, Chai, Cypress, GitHub actions (automated tests)
+- Testing: Postman, Jest, Supertest, Mocha, Chai, Cypress, GitHub actions (automated tests)
+- Frameworks: NextJS
 - Continuous deployment: Netlify, Vercel, Render, Railway
 - Backend technologies: Express, Postgres
 - Auth: Auth0, Firebase
