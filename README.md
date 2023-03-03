@@ -8,6 +8,7 @@ Feel free to have a look through my repos to see my projects, and check me out o
 
 ### Featured projects 
 
+- [Take One Picture website](https://github.com/Callasaurus/take-one-picture-project)
 - [4-week team project: Fullstack app for job-seeking developers](https://github.com/Callasaurus/deVault-SoC-4-week-team-project)
 - [1-week team project: Full-stack learning resource app for bootcampers](https://github.com/Callasaurus/Week9-soc-across-the-globe-project-1-week-team-project)
 - [Take-home frontend technical test: News application](https://github.com/Callasaurus/Frontend-take-home-technical-test)
